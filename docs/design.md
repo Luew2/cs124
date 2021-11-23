@@ -1,4 +1,4 @@
-# Lab 1
+# Lab 3
 ##### Lucas Ewing and Lauren West
 
 In this lab, we designed and implemented a simple interface for a mobile web app. This app manages a list of items the user desires to complete. Our web app is written in React and has full functionality. 
